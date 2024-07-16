@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = my_flask_app
+
+[report]
+show_missing = True
